@@ -138,9 +138,9 @@ The dataset was simulated in Excel with fields like:
 
 **👤 Ganesh Chandrashekhar Thaware**  
 `AI-Powered Data Analyst | ESG & Business Intelligence | Prompt Engineer`  
-📍 Saoner, Maharashtra | 📧 ganeshthaware2002@gmail.com  
-🔗 GitHub: [@ganeshthawre2002](https://github.com/ganeshthawre2002)  
-🔗 LinkedIn: [Connect here](www.linkedin.com/in/ganesh-thawre2002)
+📍 Saoner, Maharashtra | 📧 ganeshthaware5@gmail.com  
+🔗 GitHub: https://github.com/ganeshthawre2002
+🔗 LinkedIn: www.linkedin.com/in/ganesh-thawre2002
 
 ---
 
